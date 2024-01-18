@@ -1,0 +1,88 @@
+.head{
+    position: relative;
+}
+.school{
+    position: relative;
+    height: 0vh;
+}
+.school img{
+    position: relative;
+    height: 85vh;
+    left: -400px;
+}
+.school h1{
+    position: relative;
+    font-size: 20px;
+    color: gold;
+    left: 540px;
+    top: -600px;
+    height: 0vh;
+}
+.school h2{
+    position: relative;
+    font-size: 80px;
+    font-weight: 500;
+    left: 365px;
+    top: -660px;
+    height: 0px;
+}
+.school p{
+    position: relative;
+    font-size: 19px;
+    font-weight: 400;
+    left: 850px;
+    top: -610px;
+    width: 37%;
+    height: 0px;
+}
+.school button{
+    position: relative;
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 200px;
+    top: -500px;
+    left: 550px;
+}
+.Our{
+    position: relative;
+    height: 0vh;
+}
+.Our button{
+    position: relative;
+    background-color: red;
+    color: white;
+    height: 65px;
+    font-size: 20px;
+    width: 350px;
+    top: 550px;
+    left: -280px;
+}
+.All{
+    position: relative;
+    height: 0vh;
+}
+.All button{
+    position: relative;
+    background-color: yellow;
+    color: white;
+    height: 65px;
+    font-size: 20px;
+    width: 350px;
+    top: 550px;
+    left: 120px;
+}
+.Us{
+    position: relative;
+    height: 0vh;
+}
+.Us button{
+    position: relative;
+    background-color: white;
+    color: black;
+    height: 65px;
+    font-size: 20px;
+    width: 350px;
+    top: 550px;
+    left: 520px;
+}

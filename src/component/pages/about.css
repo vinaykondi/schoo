@@ -1,0 +1,316 @@
+.image{
+    position: relative;
+    text-align: center;
+    color: white;
+    height: 640px;
+}
+.image img{
+    position: relative;
+    height: 85vh;
+    width: 100vw;
+}
+.image h1{
+    position: relative;
+    top: -560px;
+    font-size: 100px;
+}
+.image p{
+    position: relative;
+    font-size: 30px;
+    font-weight: 600;
+    top: -600px;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.image button{
+    position: relative;
+    background-color: yellow;
+    top: -600px;
+    height: 60px;
+    width: 180px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: 500;
+}
+.Preparing{
+    position: relative;
+    height: 1650px;
+    background-color: antiquewhite;
+}
+.Success{
+    position: relative;
+}
+.Success h1{
+    position: relative;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    top: 30px;
+}
+.Success img{
+    position: relative;
+    left: 0px;
+    top: 20px;
+}
+.Success h2{
+    position: relative;
+    padding-left: 200px;
+    width: 35%;
+    font-size: 35px;
+    font-weight: 500;
+    top: 50px;
+}
+.Success p{
+    position: relative;
+    padding-left: 200px;
+    width: 35%;
+    font-size: 21px;
+    font-weight: 400;
+    top: 50px;
+}
+.but{
+    position: relative;
+}
+.but img{
+    position: relative;
+    left: -440px;
+    top: 50px;
+}
+.image1{
+    position: relative;
+}
+.image1 img{
+    position: relative;
+    top: -300px;
+    left: 400px;
+}
+.Enjoy{
+    position: relative;
+}
+.Enjoy h2{
+    position: relative;
+    padding-left: 200px;
+    width: 35%;
+    font-size: 35px;
+    font-weight: 500;
+    top: -200px;
+    left: 660px;
+}
+.Enjoy p{
+    position: relative;
+    padding-left: 200px;
+    width: 35%;
+    font-size: 21px;
+    font-weight: 400;
+    top: -200px;
+    left: 660px;
+}
+.Enjoy img{
+    position: relative;
+    left: 220px;
+    top: -200px
+}
+.image2{
+    position: relative;
+}
+.image2 img{
+    position: relative;
+    top: -550px;
+    left: -400px;
+}
+.Passionate{
+    position: relative;
+}
+.Passionate h2{
+    position: relative;
+    padding-left: 200px;
+    width: 35%;
+    font-size: 35px;
+    font-weight: 500;
+    top: -500px;
+}
+.Passionate p{
+    position: relative;
+    padding-left: 200px;
+    width: 35%;
+    font-size: 21px;
+    font-weight: 400;
+    top: -500px;
+}
+.Passionate img{
+    position: relative;
+    left: -440px;
+    top: -500px
+}
+.image3{
+    position: relative;
+    top: -310px;
+    left: 700px;
+}
+.image3 img{
+    position: relative;
+    top: -550px;
+    left: -300px;
+}
+.Teacher{
+    position: relative;
+    height: 130vh;
+    background-color: aliceblue;
+}
+.Teachers{
+    position: relative;
+}
+.Teachers h1{
+    position: relative;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+}
+.Teachers img{
+    position: relative;
+    left: 0px;
+}
+.John{
+    position: relative;
+}
+.John img{
+    position: relative;
+    padding-left: 170px;
+    height: 70vh;
+    top: 60px;
+    left: -550px;
+}
+.Miss{
+    position: relative;
+}
+.Miss img{
+    position: relative;
+    height: 90vh;
+    top: -400px;
+    left: 50px;
+}
+.Carvan{
+    position: relative;
+}
+.Carvan img{
+    position: relative;
+    height: 70vh;
+    top: -1160px;
+    left: 550px;
+}
+.lift{
+    position: relative;
+}
+.lift img{
+    position: relative;
+    top: -1450px;
+    left: -700px;
+}
+.right{
+    position: relative;
+}
+.right img{
+    position: relative;
+    top: -1500px;
+    left: 700px;
+}
+.work{
+    position: relative;
+    height: 128vh;
+    top: -30px;
+    background-color: antiquewhite;
+}
+.Why{
+    position: relative;
+}
+.Why h1{
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+    top: 60px;
+}
+.Why img{
+    position: relative;
+    left: 0px;
+    top: 60px;
+}
+.Personalized{
+    position: relative;
+}
+.Personalized img{
+    position: relative;
+    height: 18vh;
+    left: -400px;
+    top: 120px;
+}
+.Personalized h2{
+    position: relative;
+    width: 30%;
+    font-size: 30px;
+    font-weight: 500;
+    top: 100px;
+    left: 120px;
+}
+.Personalized p{
+    position: relative;
+    width: 26%;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 400;
+    top: 100px;
+    left: 150px;
+}
+.Trusted{
+    position: relative;
+}
+.Trusted img{
+    position: relative;
+    height: 18vh;
+    left: 20px;
+    top: -220px;
+}
+.Trusted h2{
+    position: relative;
+    width: 30%;
+    font-size: 30px;
+    font-weight: 500;
+    top: -240px;
+    left: 550px;
+}
+.Trusted p{
+    position: relative;
+    width: 26%;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 400;
+    top: -240px;
+    left: 600px;
+}
+.Tools{
+    position: relative;
+    height: 10vh;
+}
+.Tools img{
+    position: relative;
+    height: 18vh;
+    left: 480px;
+    top: -590px;
+}
+.Tools h2{
+    position: relative;
+    width: 30%;
+    font-size: 30px;
+    font-weight: 500;
+    top: -610px;
+    left: 1020px;
+}
+.Tools p{
+    position: relative;
+    width: 26%;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 400;
+    top: -610px;
+    left: 1050px;
+}
